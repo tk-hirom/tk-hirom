@@ -11,11 +11,12 @@
 ### Recent Activities
 
 <p align="left">
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=tk-hirom&show_icons=true&theme=neon&count_private=true&show_icons=true&custom_title=GitHub%20Stats&hide_border=true" /></a>
-  <a href="https://github.com/DenverCoder1/github-readme-streak-stats"><img alt="github stats" height="150px" src="https://github-readme-streak-stats.herokuapp.com/?user=tk-hirom&theme=neon&hide_border=true" /></a>
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=tk-hirom&show_icons=true&theme=transparent&count_private=true&show_icons=true&custom_title=GitHub%20Stats&hide_border=true" /></a>
+  <a href="https://github.com/DenverCoder1/github-readme-streak-stats"><img alt="github stats" height="150px" src="https://github-readme-streak-stats.herokuapp.com/?user=tk-hirom&theme=transparent&hide_border=true" /></a>
 </p>
 
-[![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tk-hirom&theme=radical)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tk-hirom&theme=transparent)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
-
-
+[![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tk-hirom&theme=transparent)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=tk-hirom&theme=transparent)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://github-readme-stats.vercel.app/api/top-langs/?username=tk-hirom&layout=compact&count_private=true&show_icons=true&theme=transparent&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
